@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextViewApp</string>
+    <string name="name">Md. Shamim Uddin</string>
+    <string name="age">Age is 29</string>
 </resources>
